@@ -1,5 +1,5 @@
-<summary>
-    <details>PT-BR</details>
+<details>
+    <summary>PT-BR</summary>
 
     # DevJobs - Jornada .NET Direto ao Ponto
 
@@ -20,8 +20,8 @@
     - Cadastro, Listagem, Detalhes, Atualização de Vaga de Emprego
     - Aplicação a Vaga de Emprego
 
-</summary>
+</details>
 
-<summary>
-    <details>EN</details>
-</summary>
+<details>
+    <summary>EN</summary>
+</details>
