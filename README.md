@@ -24,4 +24,5 @@
 
 <details>
     <summary>EN</summary>
+    # DevJobs - .NET journey straight to the point
 </details>
