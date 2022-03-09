@@ -18,6 +18,10 @@ Foi desenvolvida uma API REST completa de gerenciamento de vagas de emprego e ap
 - Cadastro, Listagem, Detalhes, Atualização de Vaga de Emprego
 - Aplicação a Vaga de Emprego
 
+Mestre: 
+YouTube Canal - https://www.youtube.com/channel/UCjfymesWHr0Z-3hryRsc-Fw
+LinkedIN - https://www.linkedin.com/in/luisdeol/
+
 # EN
 # DevJobs - .NET Journey to the Point
 
@@ -37,3 +41,7 @@ A complete REST API for job vacancy management and job application was developed
 ## Functionalities
 - Registration, Listing, Details, Job Vacancy Update
 - Application to Job Vacancy
+
+Master: 
+YouTube Channel - https://www.youtube.com/channel/UCjfymesWHr0Z-3hryRsc-Fw
+LinkedIN - https://www.linkedin.com/in/luisdeol/
